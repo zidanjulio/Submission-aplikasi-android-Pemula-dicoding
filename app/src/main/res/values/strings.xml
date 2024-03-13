@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">SubmissionAhmadZidan</string>
+    <string name="description">Deskripsi</string>
+    <string name="university_name">Nama Universitas</string>
+    <string name="about">About</string>
+    <string name="photo">photo\n</string>
+
+    <string-array name="data_name">
+        <item>Universitas Indonesia</item>
+        <item>Universitas Gadjah Mada</item>
+        <item>Institute Teknologi Bandung</item>
+        <item>Institute Pertanian Bogor</item>
+        <item>Universitas Padjadjaran</item>
+        <item>Universitas Diponegoro</item>
+        <item>Universitas Airlangga</item>
+        <item>Universitas Brawijaya</item>
+        <item>Universitas Sebelas Maret</item>
+        <item>Institute Teknologi Sepuluh Nopember</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Universitas Indonesia (UI) adalah universitas negeri terbesar di Indonesia yang didirikan pada tanggal 2 Februari 1950. Sejarahnya dimulai dengan berdirinya Fakultas Kedokteran dan Ilmu Kesehatan pada tahun 1942, yang kemudian berkembang menjadi Universitas Indonesia.Selama perjalanan sejarahnya, UI telah mengalami berbagai perkembangan dan transformasi. Universitas ini menjadi pusat pendidikan tinggi terkemuka di Indonesia dengan beragam fakultas dan program studi yang terakreditasi. UI juga menjadi tempat bagi para pemimpin dan cendekiawan Indonesia untuk mengembangkan pengetahuan dan keterampilan mereka dalam berbagai bidang ilmu pengetahuan dan teknologi.</item>
+        <item>Universitas Gadjah Mada (UGM) adalah universitas negeri tertua dan salah satu yang terkemuka di Indonesia. Didirikan pada tahun 1949, UGM terletak di Yogyakarta dan memiliki reputasi yang kuat dalam pendidikan dan penelitian. Universitas ini menawarkan berbagai program studi di berbagai disiplin ilmu, dari ilmu sosial dan humaniora hingga ilmu teknik dan kedokteran. UGM juga dikenal karena kontribusinya dalam pengembangan masyarakat dan budaya Indonesia melalui program-programnya yang berorientasi pada pemberdayaan masyarakat.</item>
+        <item>Institut Teknologi Bandung (ITB) adalah salah satu institusi pendidikan tinggi terkemuka di Indonesia yang berfokus pada ilmu dan teknologi. ITB didirikan pada tanggal 2 Maret 1959 melalui penggabungan beberapa institusi pendidikan teknik yang sudah ada sebelumnya di Bandung. Sejarah ITB dimulai dari pendirian Sekolah Tinggi Teknik (STT) di Bandung pada tahun 1920, yang kemudian berkembang menjadi Politeknik Teknik (PTB) pada tahun 1924.Pada tahun 1950, PTB digabung dengan Fakultas Teknik Universitas Indonesia di Jakarta, namun pada tahun 1959, PTB kembali menjadi institusi terpisah dengan nama ITB. Sejak itu, ITB telah menjadi pusat pendidikan dan penelitian yang penting di Indonesia, dengan berbagai program studi di bidang ilmu teknik, sains, dan seni. ITB juga dikenal karena kontribusinya dalam menghasilkan lulusan yang berkualitas dan penelitian-penelitian yang berdampak pada perkembangan teknologi dan inovasi di Indonesia.</item>
+        <item>Institut Pertanian Bogor (IPB) adalah perguruan tinggi pertanian terkemuka di Indonesia. Sejarah IPB dimulai pada tahun 1941 dengan didirikannya Sekolah Tinggi Pertanian di Bogor oleh Pemerintah Hindia Belanda. Pada tahun 1963, lembaga ini diubah menjadi Institut Pertanian Bogor. Selama perjalanan sejarahnya, IPB telah mengalami berbagai perkembangan dan transformasi. Universitas ini menawarkan berbagai program studi di bidang pertanian, perikanan, kehutanan, dan ilmu-ilmu terkait lainnya. IPB juga terkenal karena kontribusinya dalam pengembangan pertanian dan sumber daya alam Indonesia melalui penelitian, pendidikan, dan pengabdian kepada masyarakat</item>
+        <item>Universitas Padjadjaran (Unpad) adalah salah satu perguruan tinggi negeri terkemuka di Indonesia yang berlokasi di Bandung, Jawa Barat. Unpad didirikan pada tanggal 11 September 1957 sebagai hasil dari pemekaran dari Universitas Indonesia. Sejarah Unpad dimulai dari berdirinya Fakultas Hukum dan Fakultas Kedokteran pada tahun 1957 di Bandung. Kemudian, fakultas-fakultas lain seperti Ekonomi, Pertanian, dan Teknik juga dibentuk, sehingga membentuk Universitas Padjadjaran.</item>
+        <item>Universitas Diponegoro (Undip) adalah salah satu perguruan tinggi negeri terkemuka di Indonesia yang berlokasi di Semarang, Jawa Tengah. Undip didirikan pada tanggal 15 Oktober 1957. Sejarah Undip dimulai dari pendirian Fakultas Teknik di Semarang pada tahun 1956. Fakultas ini kemudian berkembang menjadi Universitas Diponegoro, yang dinamai dari nama pahlawan nasional, Jenderal Diponegoro. Undip telah mengalami pertumbuhan yang pesat dan saat ini menawarkan berbagai program studi di berbagai bidang ilmu, seperti teknik, ilmu sosial dan humaniora, kedokteran, dan ilmu alam. Undip juga terus berperan dalam menghasilkan penelitian yang bermanfaat dan menghasilkan lulusan berkualitas untuk memenuhi kebutuhan pembangunan Indonesia.</item>
+        <item>Universitas Airlangga (Unair) adalah salah satu universitas negeri terkemuka di Indonesia yang berlokasi di Surabaya, Jawa Timur. Unair didirikan pada tanggal 10 November 1954. Sejarah Unair dimulai dari pendirian Fakultas Kedokteran di Surabaya pada tahun 1948. Kemudian, pada tahun 1954, beberapa fakultas lain seperti Hukum, Ekonomi, dan Sastra juga didirikan, yang kemudian membentuk Universitas Airlangga.</item>
+        <item>Universitas Brawijaya (UB) adalah salah satu perguruan tinggi negeri terkemuka di Indonesia yang berlokasi di Malang, Jawa Timur. UB didirikan pada tanggal 5 Januari 1963. Sejarah UB dimulai dari berdirinya Fakultas Pertanian Universitas Airlangga di Malang pada tahun 1957. Kemudian, pada tahun 1963, Fakultas-fakultas tersebut berkembang menjadi Universitas Brawijaya yang terdiri dari beberapa fakultas, termasuk Fakultas Teknik, Fakultas Kedokteran, dan lainnya.</item>
+        <item>Universitas Sebelas Maret (UNS) adalah sebuah perguruan tinggi negeri yang terletak di Surakarta, Jawa Tengah, Indonesia. UNS didirikan pada tanggal 11 Maret 1976. Sejarah UNS dimulai dari pendirian Akademi Kimia Industri (AKI) pada tahun 1964. Kemudian, pada tanggal 11 Maret 1976, AKI bergabung dengan beberapa institusi lainnya, seperti Akademi Keguruan dan Ilmu Pendidikan (AKIP) dan Akademi Pertanian (AP) untuk membentuk Universitas Sebelas Maret.</item>
+        <item>Institut Teknologi Sepuluh Nopember (ITS) adalah salah satu perguruan tinggi negeri terkemuka di Indonesia yang berlokasi di Surabaya, Jawa Timur. ITS didirikan pada tanggal 10 November 1957. Sejarah ITS dimulai dari pendirian Sekolah Tinggi Teknik (STT) di Surabaya pada tahun 1947. Kemudian, pada tanggal 10 November 1957, STT tersebut berkembang menjadi Institut Teknologi Sepuluh Nopember. ITS terus berkembang dan menjadi pusat pendidikan dan penelitian yang penting di Indonesia, dengan fokus pada ilmu dan teknologi. Institut ini menawarkan berbagai program studi di bidang teknik, sains, dan teknologi informasi. ITS juga dikenal karena kontribusinya dalam pengembangan teknologi dan inovasi, serta pengabdian kepada masyarakat melalui berbagai kegiatan dan program.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/universitas_indonesia</item>
+        <item>@drawable/universitas_gadjahmada</item>
+        <item>@drawable/institute_teknologibandung</item>
+        <item>@drawable/institute_pertanianbogor</item>
+        <item>@drawable/universitas_padjajaran</item>
+        <item>@drawable/universitas_diponegoro</item>
+        <item>@drawable/universitas_airlangga</item>
+        <item>@drawable/universitas_brawijaya</item>
+        <item>@drawable/institute_sepuluhnopember</item>
+    </integer-array>
+</resources>
